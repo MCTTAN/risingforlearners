@@ -178,7 +178,8 @@ h1, h2, h3, h4, h5, h6 {
 # NAVIGATION MENU
 --------------------------------------------------------------*/
 
-/* Desktop Navigation */
+/* MOBILE NAVIGATION */
+
 .nav-menu, .nav-menu * {
   margin: 0;
   padding: 0;
@@ -310,7 +311,7 @@ h1, h2, h3, h4, h5, h6 {
   outline: none !important;
   line-height: 1;
   cursor: pointer;
-  text-align: right;
+  text-align: center;
 }
 
 /* HAMURGER */
