@@ -292,7 +292,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Mobile Navigation */
+/* MOBILE NAVIGATION */
+
 .mobile-nav-toggle {
   position: fixed;
   right: 15px;
@@ -302,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
   background: none;
   font-size: 24px;
   transition: all 0.4s;
-  outline: none !important;
+  outline: solid white !important;
   line-height: 1;
   cursor: pointer;
   text-align: right;
@@ -400,8 +401,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-# Hero Section
+# HERO
 --------------------------------------------------------------*/
+
 #hero {
   width: 100%;
   position: relative;
