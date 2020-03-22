@@ -303,14 +303,14 @@ h1, h2, h3, h4, h5, h6 {
   background: none;
   font-size: 24px;
   transition: all 0.4s;
-  outline: solid white !important; /* hamburger */
+  outline: none !important;
   line-height: 1;
   cursor: pointer;
   text-align: right;
 }
 
 .mobile-nav-toggle i {
-  color: #002b7f;
+  color: white;
 }
 
 .mobile-nav {
