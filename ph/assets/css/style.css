@@ -122,11 +122,11 @@ h1, h2, h3, h4, h5, h6 {
   
   .navbar.collapsing,
   .navbar.show {
-      background: white !important;
+      background: white;
   }
   
   .navbar-toggle.collapsed {
-    background-color: white !important;
+    background-color: white;
   }
 }
 
