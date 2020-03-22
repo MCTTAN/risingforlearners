@@ -1,6 +1,7 @@
 /*--------------------------------------------------------------
 # GENERAL
 --------------------------------------------------------------*/
+
 body {
   font-family: "Amiri", serif;
   color: black;
@@ -52,6 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # BACK TO TOP BUTTON
 --------------------------------------------------------------*/
+
 .back-to-top {
   position: fixed;
   display: none;
@@ -82,6 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # HEADER
 --------------------------------------------------------------*/
+
 #header {
   height: 72px;
   transition: all 0.5s;
@@ -137,32 +140,16 @@ h1, h2, h3, h4, h5, h6 {
   }
   
   #header a {
-  color: white;
-  font-family: Amiri;
-  font-size: 20px;
-  }
-  
-  .navbar { 
-      background-color: white;
-  }
-  
-  .navbar.collapse {
-      display: flex;
-  }
-  
-  .navbar.collapsing,
-  .navbar.show {
-      background: white;
-  }
-  
-  .navbar-toggle.collapsed {
-    background-color: white;
+    color: white;
+    font-family: Amiri;
+    font-size: 20px;
   }
 }
 
 /*--------------------------------------------------------------
-# Navigation Menu
+# NAVIGATION MENU
 --------------------------------------------------------------*/
+
 /* Desktop Navigation */
 .nav-menu, .nav-menu * {
   margin: 0;
