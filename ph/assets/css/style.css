@@ -1289,42 +1289,13 @@ section {
   }
 }
 
-
 /*--------------------------------------------------------------
-# FOOTER
+# IMAGE SIZES
 --------------------------------------------------------------*/
 
-@media (min-width: 858px) {
-   img {
-     max-width: 300px;
-     max-height: 300px;
-   }
-}
-
-@media (min-width: 780px) {
-    img {
-     max-width: 300px;
-     max-height: 300px;
-   }
-}
-
-@media (min-width: 702px) {
+@media {
   img {
-     max-width: 300px;
-     max-height: 300px;
-   }
-}
-
-@media (min-width: 724px) {
-  img {
-     max-width: 300px;
-     max-height: 300px;
-   }
-}
-
-@media (max-width: 623px) {
-  img {
-     max-width: 300px;
-     max-height: 300px;
-   }
+    max-width: 100%;
+  height: auto;
+  }
 }
