@@ -144,6 +144,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Amiri;
     font-size: 20px;
   }
+  
+  .custom-toggler.navbar-toggler {
+    border-color: rgb(255,102,203);
+  } 
 }
 
 /*--------------------------------------------------------------
