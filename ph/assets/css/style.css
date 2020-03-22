@@ -110,9 +110,10 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 
 #header {
-  height: 72px;
+  height: 140px;
   transition: all 0.5s;
   z-index: 997;
+  line-height: 5;
   transition: all 0.5s;
   padding: 15px 0;
 }
@@ -152,8 +153,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 140px;
+  max-height: 140px;
 }
 
 @media (max-width: 992px) {
