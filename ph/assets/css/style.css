@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
   background: none;
   font-size: 24px;
   transition: all 0.4s;
-  outline: solid white !important;
+  outline: solid white !important; /* hamburger */
   line-height: 1;
   cursor: pointer;
   text-align: right;
@@ -503,8 +503,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-# Sections General
+# GENERAL SECTIONS
 --------------------------------------------------------------*/
+
 section {
   padding: 60px 0;
   overflow: hidden;
@@ -533,8 +534,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# App Features
+# FEATURES
 --------------------------------------------------------------*/
+
 .features .content {
   padding: 30px 0;
 }
@@ -577,8 +579,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Details
+# DETAILS
 --------------------------------------------------------------*/
+
 .details .content + .content {
   margin-top: 100px;
 }
@@ -609,8 +612,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Gallery
+# GALLERY
 --------------------------------------------------------------*/
+
 .gallery {
   overflow: hidden;
 }
@@ -658,8 +662,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Testimonials
+# TESTIMONIALS
 --------------------------------------------------------------*/
+
 .testimonials .testimonial-wrap {
   padding-left: 50px;
 }
@@ -751,8 +756,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Pricing
+# PRICING
 --------------------------------------------------------------*/
+
 .pricing .row {
   padding-top: 40px;
 }
@@ -867,8 +873,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Frequently Asked Questions
+# FAQ
 --------------------------------------------------------------*/
+
 .faq .accordion-list {
   padding: 0 100px;
 }
@@ -947,8 +954,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Contact
+# CONTACT
 --------------------------------------------------------------*/
+
 .contact .info {
   padding: 20px 40px;
   background: #f1f3f6;
@@ -1096,8 +1104,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Footer
+# FOOTER
 --------------------------------------------------------------*/
+
 #footer {
   background: #fff;
   padding: 0 0 30px 0;
@@ -1271,4 +1280,44 @@ section {
     text-align: center;
     padding: 5px 0;
   }
+}
+
+
+/*--------------------------------------------------------------
+# FOOTER
+--------------------------------------------------------------*/
+
+@media (min-width: 858px) {
+   img {
+     max-width: 300px;
+     max-height: 300px;
+   }
+}
+
+@media (min-width: 780px) {
+    img {
+     max-width: 300px;
+     max-height: 300px;
+   }
+}
+
+@media (min-width: 702px) {
+  img {
+     max-width: 300px;
+     max-height: 300px;
+   }
+}
+
+@media (min-width: 724px) {
+  img {
+     max-width: 300px;
+     max-height: 300px;
+   }
+}
+
+@media (max-width: 623px) {
+  img {
+     max-width: 300px;
+     max-height: 300px;
+   }
 }
