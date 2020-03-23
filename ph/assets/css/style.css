@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
 /* MOBILE NAVIGATION */
 
 .mobile-nav-toggle {
-  position: relative;
+  position: fixed;
   right: 15px;
   top: 22px;
   z-index: 9998;
@@ -314,8 +314,7 @@ h1, h2, h3, h4, h5, h6 {
   outline: none !important;
   line-height: 1;
   cursor: pointer;
-  text-align: center !important;
-  display: flex;
+  text-align: right;
 }
 
 /* HAMURGER */
@@ -324,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav {
-  position: relative;
+  position: fixed;
   top: 55px;
   right: 15px;
   bottom: 15px;
