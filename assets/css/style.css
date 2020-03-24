@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------
-# General
+# General - MAIN THEME
 --------------------------------------------------------------*/
 body {
   font-family: "Amiri", serif;
@@ -18,6 +18,13 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Amiri", serif;
 }
+
+h1 { font-size: 20px; }
+h2 { font-size: 22px; }
+h3 { font-size: 24px; }
+h4 { font-size: 26px; }
+h5 { font-size: 28px; }
+h6 { font-size: 30px; }
 
 /*--------------------------------------------------------------
 # Back to top button
