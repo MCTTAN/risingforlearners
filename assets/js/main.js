@@ -1,12 +1,7 @@
-/**
-* Template Name: Appland - v2.0.0
-* Template URL: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 !(function($) {
   "use strict";
-
+  
   // Toggle .header-scrolled class to #header when page is scrolled
   $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
