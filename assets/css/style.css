@@ -1198,3 +1198,21 @@ section {
     padding: 5px 0;
   }
 }
+
+/* --- ROWS AND COLUMNS --- */
+
+/* Create two equal columns that floats next to each other */
+.column {
+  display: table-cell;
+  width: 33.33%;
+  text-align: center;
+  padding: 10px;
+  vertical-align: middle;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
