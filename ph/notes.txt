@@ -61,3 +61,85 @@ Some parents are very involved in their child's school life, while others are no
 Mixed Gender Socializing - One-on-one exclusive friendship with the opposite sex is generally frowned upon while still in high school, but it depends on whether the student is open about the relationship with his or her parents as well as parental acceptance, tolerance and open-mindedness in general. Parents are more accepting of barkada (the usual group of close friends) and schoolmates that their child socializes with.
 
 Communication Styles - Communication is generally indirect in the Philippines. It is not the norm to express negative feelings or perceptions immediately nor openly as this is seen to be unbecoming and rude behavior. Filipinos rely on non-verbal physical cues as part of communication. Students may withdraw and generally display unsocial behavior rahter than say what they feel. In general, parents and elders do not ask about feelings and emotions. So, students are not used to being expressive and may not have the breadth and depth of vocabulary to say what they really feel and mean.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <!-- =========================================== -->
+      <!-- ========== START PARALLAX - BLUE 2 ======== -->
+      <!-- =========================================== -->
+      
+      <section id=""
+               class="features"
+               style="background-color: #008CDB;">
+          
+        <div class="container">
+          <div class="section-title">
+            
+            <h6 style="color: white; font-family: 'Amiri', 'serif; letter-spacing: 1.5px;">
+              <br>
+              <b>Career Pathway Program</b>
+              <br>
+            </h6>
+            
+            <p style="color: white; letter-spacing: 1.5px; -webkit-text-stroke-width: 0.1px; -webkit-text-stroke-color: black; text-align: left;">
+              We work with high schools to expose students to career pathways in S.T.E.A.M. We organize workshops, hackathons, and summits where students can access mentors and learn tech skills.
+            </p>
+            
+            <h6 style="color: white; font-family: 'Amiri', serif; letter-spacing: 1.5px;">
+              <br>
+              <b>Makerspace</b>
+              <br>
+            </h6>
+            
+            <p style="color: white; letter-spacing: 1.5px; -webkit-text-stroke-width: 0.1px; -webkit-text-stroke-color: black; text-align: left;">
+              We provide high school students with mentorship, prototyping tools, and the makerspace they need to build projects.
+            </p>
+            
+            <h6 style="color: white; font-family: 'Amiri', serif; letter-spacing: 1.5px;">
+              <br>
+              <b>Building an Academic Culture for Success</b>
+              <br>
+            </h6>
+            
+            <p style="color: white; letter-spacing: 1.5px; -webkit-text-stroke-width: 0.1px; -webkit-text-stroke-color: black; text-align: left;">
+                High students who receive a barrage of early cultural cues and strategies to prepare for college generally tend to succeed once they are over those who do not receive the same structured planning. This academic priming, or a cultivation of academic culture, begins early through private tutoring or extra-curricular activities. However, not all students receive the bounty of college-educated parents or parents who are adequately prepared to cultivate an academic culture for their children.
+              </p>
+              
+            <h6 style="color: white; font-family: 'Amiri', serif; letter-spacing: 1.5px;">
+              <br>
+              <b>Advancing Educational Equity for Underserved Youth</b>
+              <br>
+              <b>Support School Inclusion and Student Success</b>
+              <br>
+              <b>Marginalization and Poverty</b>
+              <br>
+            </h6>
+            
+            <p style="color: white; letter-spacing: 1.5px; -webkit-text-stroke-width: 0.1px; -webkit-text-stroke-color: black; text-align: left;">
+              For many high school students who still do not have access to education, it is notable because of persisting inequality and marginalization. In developing countries, students do not have access to basic education because of inequalities that originate in poverty. These children find themselves on the margins of the education system and do not benefit from learning that is vital to their intellectual and social development. Factors linked to poverty such as unemployment, illness and the illiteracy of parents multiply the risk of non-schooling and the drop-out rate of students. Many students from disadvantaged background are undeniably forced to abandon their education due to health or financial problems.
+            </p>
+            
+          </div>
+        </div>
+      </section>
+      
+      
+      <!-- ================== -->
+      <!-- ====== END PARALLAX - BLUE 2 ==== -->
+      <!-- ================== -->
+      

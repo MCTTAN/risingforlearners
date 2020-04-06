@@ -402,6 +402,26 @@ span {
 # SECTIONS
 --------------------------------------------------------------*/
 
+.blue-inverse-flowers {
+  background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-blue-inverse-flowers-c91439-7D061F-pattern-smaller.png?raw=true");
+  background-size: cover;
+}
+
+.dark-blue-leaves {
+  background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-dark-blue-leaves-background-pattern.png?raw=true");
+  background-size: cover;
+}
+
+.orange-students {
+  background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/free-to-use/edits/170425-F-YW474-1478-orange.png?raw=true");
+  background-size: cover;
+}
+
+.pink-red-flowers {
+  background-image: url('https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-blue-inverse-flowers-c91439-7D061F-pattern-smaller.png?raw=true');
+  background-size: cover;
+}
+
 .studying-outside-1 {
   background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/free-to-use/edits/89362654-beautiful-asian-student-keeping-records-in-paper-notebook-while-studying-online-with-laptop-sitting-glow.png?raw=true");
   min-height: 800px;
@@ -413,17 +433,11 @@ span {
 
 .studying-outside-2 {
   background-image: url('https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/free-to-use/edits/69218558-young-asian-woman-sitting-on-grass-and-enjoy-to-work-with-laptop-concept-of-freelance-enjoy-working-glow.png?raw=true');
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
 .teal-topographic {
   background-image: url('https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-topographic-white-lines-teal-background-pattern.png?raw=true');
-  background-attachment: fixed;
-  background-position: top;
-  background-repeat: no-repeat;
   background-size: cover;
   background-color: #00CB89;
   background-blend-mode: luminosity;
@@ -431,21 +445,6 @@ span {
 
 .yellow-retro {
   background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-yellow-retro-pattern.png?raw=true");
-  background-size: cover;
-}
-
-.orange-students {
-  background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/free-to-use/edits/170425-F-YW474-1478-orange.png?raw=true");
-  background-size: cover;
-}
-
-.dark-blue-leaves {
-  background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-dark-blue-leaves-background-pattern.png?raw=true");
-  background-size: cover;
-}
-
-.blue-inverse-flowers {
-  background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-blue-inverse-flowers-c91439-7D061F-pattern-smaller.png?raw=true");
   background-size: cover;
 }
 
