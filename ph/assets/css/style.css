@@ -95,7 +95,7 @@ h6 { font-size: 30px; }
   transition: all 0.5s;
   padding: 15px 0;
   background: #002b7f;
-  opacity: 0.9;
+  opacity: 1.0;
 }
 
 #header a {
