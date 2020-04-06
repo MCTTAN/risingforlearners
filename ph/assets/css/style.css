@@ -100,8 +100,10 @@ span {
 }
 
 /*--------------------------------------------------------------
-# HEADER
+# NAVIGATION MENU
 --------------------------------------------------------------*/
+
+/* HEADER */
 
 #header {
   height: 140px;
@@ -418,6 +420,8 @@ span {
 .dark-blue-leaves {
   background-image: url("https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-dark-blue-leaves-background-pattern.png?raw=true");
   background-size: cover;
+  background-color: #002A6A;
+  background-blend-mode: soft-light;
 }
 
 .orange-students {
@@ -428,6 +432,8 @@ span {
 .pink-red-flowers {
   background-image: url('https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/rising-blue-inverse-flowers-c91439-7D061F-pattern-smaller.png?raw=true');
   background-size: cover;
+  background-color: #7d061f;
+  background-blend-mode: soft-light;
 }
 
 .studying-outside-1 {
