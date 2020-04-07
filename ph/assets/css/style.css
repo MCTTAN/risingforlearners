@@ -462,8 +462,8 @@ span {
 .the-digital-divide-1 {
   background-image: url('https://github.com/MCTTAN/risingforlearners/blob/master/ph/media/rising-ph/rising-patterns/the-digital-divide-1.png?raw=true');
   background-size: cover;
-  background-color: #002B7F;
-  background-blend-mode: overlay;
+  /*background-color: #002B7F;
+  background-blend-mode: overlay;*/
 }
 
 .yellow-retro {
