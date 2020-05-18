@@ -138,9 +138,12 @@ span {
   padding: 0;
   margin: 0;
   position: absolute;
-  bottom: 2.25pt;
-  max-width: 140px;
-  max-height: 140px;
+  /*bottom: 2.25pt;*/
+  padding-bottom: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  /*max-width: 140px;*/
+  /*max-height: 140px;*/
 }
 
 @media (max-width: 992px) {
