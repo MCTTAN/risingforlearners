@@ -1,0 +1,18 @@
+<li><a href="ph/work.html">Work</a></li>
+
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="background: white;">Challenges</a>
+              <div class="dropdown-menu" style="border: white;">
+                <a href="ph/the-digital-divide.html" class="dropdown-item" style="background: white;">Technology</a>
+                <a href="ph/poverty.html" class="dropdown-item" style="background: white;">Poverty</a>
+              </div>
+          </li>
+  
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="background: white;">About Us</a>
+              <div class="dropdown-menu" style="border: white;">
+                <a href="ph/mission.html" class="dropdown-item" style="background: white;">Mission</a>
+                <a href="ph/vision.html" class="dropdown-item" style="background: white;">Vision</a>
+                <a href="ph/team.html" class="dropdown-item" style="background: white;">Team</a>
+              </div>
+          </li>
