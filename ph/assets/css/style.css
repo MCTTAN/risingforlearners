@@ -22,6 +22,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Amiri", serif;
+  letter-spacing: 1.5px;
 }
 
 
@@ -116,41 +117,29 @@ span {
   line-height: 5;
   transition: all 0.5s;
   padding: 15px 0;
-  background: #002b7f;
+  /*background: #002b7f;*/
+  background: #fff;
   opacity: 1.0;
 }
 
 #header a {
-  color: white;
+  /*color: white;*/
+  color: #002b7f;
   font-family: Amiri;
   font-size: 20px;
 }
 
 #header.header-scrolled {
   /*background: rgba(255, 255, 255, 0.95);*/
-  background: #002b7f;
-  opacity: 1.0;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  /*background: #002b7f;*/
+  /*opacity: 1.0;*/
+  /*box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);*/
 }
 
 #header.header-scrolled a {
-  color: white;  
-  font-family: Amiri;
-  font-size: 20px;
-}
-
-#header .logo h1 {
-  font-size: 30px;
-  margin: 0;
-  padding: 2px 0;
-  line-height: 1;
-  font-weight: 400;
-  letter-spacing: 2px;
-}
-
-#header .logo h1 a, #header .logo h1 a:hover {
-  color: #002b7f;
-  text-decoration: none;
+  /*color: white;*/
+  /*font-family: Amiri;*/
+  /*font-size: 20px;*/
 }
 
 #header .logo img {
@@ -165,14 +154,15 @@ span {
 @media (max-width: 992px) {
   #header {
     /*background: rgba(255, 255, 255, 0.95);*/
-    background: #002b7f;
+    background: #fff;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   }
   
   #header a {
-    color: white;
+    color: #002b7f;
     font-family: Amiri;
     font-size: 20px;
+    letter-spacing: 1.5px;
   }
   
   .custom-toggler.navbar-toggler {
