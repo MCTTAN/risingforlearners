@@ -1,3 +1,13 @@
+
+row {
+  display: flex;
+}
+
+column {
+  flex: 1;
+  flex-direction: row;
+}
+
 /*--------------------------------------------------------------
 # GENERAL
 --------------------------------------------------------------*/
@@ -5,7 +15,6 @@
 body {
   font-family: "Amiri", serif;
   color: black;
-  padding-top: 200px;
 }
 
 a {
@@ -78,8 +87,10 @@ span {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #ffe101;
-  color: black;
+  /*background: #ffe101;*/
+  /*color: black;*/
+  background: black;
+  color: white;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
 }
@@ -92,8 +103,10 @@ span {
 }
 
 .back-to-top:hover {
-  color: #ffe101;
-  background: black;
+  /*color: #ffe101;*/
+  /*background: black;*/
+  background: white;
+  color: black;
   transition: background 0.2s ease-in-out;
 }
 
@@ -104,12 +117,13 @@ span {
 /* HEADER */
 
 #header {
-  height: 140px;
+  /*height: 140px;*/
+  height: 110px;
   transition: all 0.5s;
   z-index: 997;
   line-height: 5;
   transition: all 0.5s;
-  padding: 15px 0;
+  /*padding: 0px 0;*/
   /*background: #002b7f;*/
   background: #fff;
   opacity: 1.0;
@@ -152,7 +166,7 @@ span {
   #header {
     /*background: rgba(255, 255, 255, 0.95);*/
     background: #fff;
-    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    /*box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);*/
   }
   
   #header a {
@@ -554,16 +568,17 @@ span {
 --------------------------------------------------------------*/
 
 #footer {
-  background: #ffe101;
+  /*background: #ffe101;*/
+  background: #D3D3D3;
   padding: 0 0 30px 0;
   color: black;
   font-size: 14px;
-  margin-top: 200px;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #ffe101;
+  /*background: #ffe101;*/
+  background: #D3D3D3;
 }
 
 #footer .footer-top .footer-contact {
@@ -631,8 +646,10 @@ span {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #fff;
-  color: black;
+  /*background: #fff;*/
+  /*color: black;*/
+  background: black;
+  color: white;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -644,8 +661,10 @@ span {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: black;
-  color: white;
+  /*background: black;*/
+  /*color: white;*/
+  background: white;
+  color: black;
   text-decoration: none;
 }
 
