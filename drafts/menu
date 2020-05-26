@@ -1,18 +1,129 @@
-<li><a href="ph/work.html">Work</a></li>
-
-          <li class="nav-item dropdown">
-            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="background: white;">Challenges</a>
-              <div class="dropdown-menu" style="border: white;">
-                <a href="ph/the-digital-divide.html" class="dropdown-item" style="background: white;">Technology</a>
-                <a href="ph/poverty.html" class="dropdown-item" style="background: white;">Poverty</a>
-              </div>
-          </li>
+<div id="index-div-1" class="" style="min-height: 600px; background-color: transparent;">
+      
+      <div class="row">
+        
+        <div class="col-lg-6">
+          <div>
+            <br>
+            <br>
+            <h1 style="-webkit-text-stroke-width: 0.3px; -webkit-text-stroke-color: black;">
+              <mark style="background-color: #b9bed8;">Join the Movement</mark>
+            </h1>
+          </div>
+        </div>
+        
+        <div class="col-lg-6">
+          <div>
+            <br>
+            <br>
+            <h1 style="-webkit-text-stroke-width: 0.3px; -webkit-text-stroke-color: black;">
+              <mark style="background-color: #b9bed8;">Join the Movement</mark>
+            </h1>
+          </div>
+        </div>
+        
+      </div>
   
-          <li class="nav-item dropdown">
-            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="background: white;">About Us</a>
-              <div class="dropdown-menu" style="border: white;">
-                <a href="ph/mission.html" class="dropdown-item" style="background: white;">Mission</a>
-                <a href="ph/vision.html" class="dropdown-item" style="background: white;">Vision</a>
-                <a href="ph/team.html" class="dropdown-item" style="background: white;">Team</a>
-              </div>
-          </li>
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Mentorship is a valuable part of professional development.
+              <br>
+              <br>
+              You do not have to be a seasoned veteran to take on a mentor role - we all have something to share. Focus on the things that you're knowledgeable about and actively engage with others to pass on that information and those experiences. Talk to your mentees about where they'd like to learn and grow, challenge them in those areas, and keep the feedback loop going.
+              <br>
+              <br>
+              The most important part of being a good mentor is caring about your mentee's development and doing what you can to push them forward.
+              
+              <br>
+              <br>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+<!-- ======= FOOTER ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 footer-contact">
+            <img src="media/rising-main/rising-text/rising-text-black-transparent.png" style="width: 100px; height: 100px;" alt="" class="img-fluid">
+              
+              <br>
+              
+              Rising is a nonprofit start-up dedicated to cultivating underserved and underrepresented high school students to succeed academically and professionally through innovative solutions.
+              
+              <br>
+              <br>
+              
+              <strong>Location:</strong> Maryland
+              
+              <br>
+              
+              <strong>Email:</strong> hello@risingforlearners.org
+           
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            
+          </div>
+          
+          <div class="col-lg-3 col-md-6">
+            <br>
+            <br>
+            <br>
+            <br>
+            <strong>Navigation</strong>
+            <br>
+            <a href="index.html">Home</a>
+            <br>
+            <a href="magazine.html">Magazine</a>
+            <br>
+            <a href="programs.html">Programs</a>
+            <br>
+            <a href="challenges.html">Challenges</a>
+            <br>
+            <a href="about.html">About</a>
+            <br>
+            <a href="join-the-movement.html">Join the Movement</a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            
+            <br>
+            
+            <strong>Social Networks</strong>
+            
+            <br>
+            
+            <div class="social-links mt-3">
+              <a href="https://www.linkedin.com/company/rising-for-education/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="" class="instagram"><i class="bx bxl-instagram"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
